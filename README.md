@@ -17,7 +17,7 @@ This module is used by [Tradle](https://github.com/tradle)
 
 * In your project dir:
 ```
-npm install --save react-native-udp
+npm install --save react-native-udp-thinkout
 ```
 
 ### Link in the native dependency
