@@ -1,6 +1,6 @@
 {
   "name": "react-native-udp-thinkout",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "node's dgram API for react-native",
   "main": "UdpSockets.js",
   "scripts": {
